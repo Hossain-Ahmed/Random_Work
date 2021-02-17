@@ -1,0 +1,17 @@
+F:\HAS\Random_work\QRCode\bin\Debug\QRCode.exe.config
+F:\HAS\Random_work\QRCode\bin\Debug\QRCode.exe
+F:\HAS\Random_work\QRCode\bin\Debug\QRCode.pdb
+F:\HAS\Random_work\QRCode\obj\Debug\QRCode.csprojAssemblyReference.cache
+F:\HAS\Random_work\QRCode\obj\Debug\MainWindow.g.cs
+F:\HAS\Random_work\QRCode\obj\Debug\App.g.cs
+F:\HAS\Random_work\QRCode\obj\Debug\QRCode_MarkupCompile.cache
+F:\HAS\Random_work\QRCode\obj\Debug\QRCode_MarkupCompile.lref
+F:\HAS\Random_work\QRCode\obj\Debug\MainWindow.baml
+F:\HAS\Random_work\QRCode\obj\Debug\QRCode.g.resources
+F:\HAS\Random_work\QRCode\obj\Debug\QRCode.Properties.Resources.resources
+F:\HAS\Random_work\QRCode\obj\Debug\QRCode.csproj.GenerateResource.cache
+F:\HAS\Random_work\QRCode\obj\Debug\QRCode.csproj.CoreCompileInputs.cache
+F:\HAS\Random_work\QRCode\obj\Debug\QRCode.exe
+F:\HAS\Random_work\QRCode\obj\Debug\QRCode.pdb
+F:\HAS\Random_work\QRCode\bin\Debug\QRCoder.dll
+F:\HAS\Random_work\QRCode\obj\Debug\QRCode.csproj.CopyComplete
